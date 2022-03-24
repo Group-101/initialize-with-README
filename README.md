@@ -23,12 +23,12 @@ EZTravel App
 
 ## Overview
 ## Description<a name="Description"></a>
-This EZ-Travel is basically a smartphone app connect driver-partners and riders. It is designed for travelling from one place to another. The main purpose of this app is to reduce fuel consumption along with providing economical travelling cost hence contributing to green environment and economical for the both end users. As it’s been noticed most of the time people move long distances with having enough space for other individuals in their vehicles. Though there are many other benefits but the most common are these.
+This EZ-Travel is basically a smartphone app connect driver-partners and riders. It is designed for travelling from one place to another. The main purpose of this app is to reduce fuel consumption along with providing economical travelling cost hence contributing to green environment and economical for the both end users. As it’s been noticed most of the time people move long distances with having enough space for other individuals in their vehicles. Though there are many other benefits but the most common are these.  
 •	It will save time, fuel and the travelling cost overall.
 
 
 ## App Evaluation<a name="AppEvaluation"></a>
-EZ Travel is a ride-sharing service that provides the EZ-Travel mobile app. Users can use this app to submit trip requests to a destination they want to visit, and this request is then automatically sent to a registered driver near the user. Indicating to the driver the user’s location and whichever driver accepts the requests will drive to the user’s location and the requested location.
+EZ Travel is a ride-sharing service that provides the EZ-Travel mobile app. Users can use this app to submit trip requests to a destination they want to visit, and this request is then automatically sent to a registered driver near the user. Indicating to the driver the user’s location and whichever driver accepts the requests will drive to the user’s location and the requested location.  
 This app also calculates the driver’s navigation route automatically. And assists in calculating the distance and fare that will be charged for the trip. The EZ Travel app transfers payment to the driver from the user’s preferred mode of payment.
 
 
@@ -56,15 +56,12 @@ Features (Required and Optional):
 •	Offering a text and voice note facility between customer and  Vehicle owner  
 ### 2. Screens <a name="subparagraph2"></a> 
 There are different type of screens which are most commonly going to be used. These are the following,
-Login 
-•	The user already have an account Register  
-•	For the first time user
-Vehicle Choice
-•	The rider will have this screen
-Map Screen
-•	The user can share and see the location of their travelling partner
-Setting Screen 
-•	To modify or change the related settings 
+Login   
+•	The user already have an account Register    
+•	For the first time user Vehicle Choice  
+•	The rider will have this screen Map Screen    
+•	The user can share and see the location of their travelling partner Setting Screen     
+•	To modify or change the related settings   
 
 ### 3. Navigation <a name="subparagraph3"></a>
 Forced Log-in -> Account creation if no login is available
