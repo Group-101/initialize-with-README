@@ -37,23 +37,23 @@ This app also calculates the driver’s navigation route automatically. And assi
 ### 1. User Stories (Required and Optional) <a name="subparagraph1"></a> 
 There will be two types of persons using this app
 1.	Driver
-2.	Customer
+2.	Customer  
 Both the parties have to register themselves on this platform before using this app.
 Features (Required and Optional):
 
-**Required Must-have Stories**
-•	Helping a customer to find out a nearby vehicles 
-•	Showing Map and  distance from the customer
-•	Calculating total distance for customer destination and required time 
-•	Sending request to the Vehicle owner
-•	Making a deal between customer and Vehicle owner
-•	Providing a method for payment 
+**Required Must-have Stories**  
+•	Helping a customer to find out a nearby vehicles   
+•	Showing Map and  distance from the customer  
+•	Calculating total distance for customer destination and required time   
+•	Sending request to the Vehicle owner  
+•	Making a deal between customer and Vehicle owner  
+•	Providing a method for payment   
 
-**Optional Nice-to-have Stories**
-•	Displaying a live map of available  vehicles
-•	Displaying different packages for different vehicles
-•	Offering payment according to selected vehicles
-•	Offering a text and voice note facility between customer and  Vehicle owner
+**Optional Nice-to-have Stories**  
+•	Displaying a live map of available  vehicles  
+•	Displaying different packages for different vehicles  
+•	Offering payment according to selected vehicles  
+•	Offering a text and voice note facility between customer and  Vehicle owner  
 ### 2. Screens <a name="subparagraph2"></a> 
 There are different type of screens which are most commonly going to be used. These are the following,
 Login 
