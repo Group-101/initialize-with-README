@@ -17,7 +17,7 @@ EZTravel App
 5. [Schema](#paragraph3)
     1. [Models](#subparagraph5)
     2. [Networking](#subparagraph6)
-
+5. [Milestone5](#paragraph4)
 
 
 
@@ -125,4 +125,10 @@ Settings -> Toggle settings
    ----------|----------|------------
     `GET`    | /characters | get all characters
     `GET`    | /characters/?name=name | return specific character by name
+## Milestone5  <a name="paragraph4"></a>
+In this week I build an interactive prototype to give a sense of how using the app will feel.  
+I'm writing code for login and selecting the vehicle  and billing process.  
+This will help us to understand final vital component, which sits right at the crossroads between design and development: a detailed technical specification.  
+Now I implementing  the wireframe and annotates in more detail – so how it will actually work, as well as how it looks. 
+
 
