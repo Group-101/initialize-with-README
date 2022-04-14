@@ -17,10 +17,9 @@ EZTravel App
 5. [Schema](#paragraph3)
     1. [Models](#subparagraph5)
     2. [Networking](#subparagraph6)
-6. [Milestone5](#paragraph4)
-7. [Milestone6](#paragraph5)
-
-
+6. [Milestone 5](#paragraph4)
+7. [Milestone 6](#paragraph5)
+8. [Milestone 7](#paragraph6)
 ## Overview
 ## Description<a name="Description"></a>
 This EZ-Travel is basically a smartphone app connect driver-partners and riders. It is designed for travelling from one place to another. The main purpose of this app is to reduce fuel consumption along with providing economical travelling cost hence contributing to green environment and economical for the both end users. As it’s been noticed most of the time people move long distances with having enough space for other individuals in their vehicles. Though there are many other benefits but the most common are these.  
@@ -125,11 +124,13 @@ Settings -> Toggle settings
    ----------|----------|------------
     `GET`    | /characters | get all characters
     `GET`    | /characters/?name=name | return specific character by name
-## Milestone5  <a name="paragraph4"></a>
+## Milestone 5  <a name="paragraph4"></a>
 In this week I build an interactive prototype to give a sense of how using the app will feel.  
 I'm writing code for login and selecting the vehicle  and billing process.  
 This will help us to understand final vital component, which sits right at the crossroads between design and development: a detailed technical specification.  
 Now I implementing  the wireframe and annotates in more detail – so how it will actually work, as well as how it looks. 
 
-## Milestone6  <a name="paragraph5"></a>
+## Milestone 7  <a name="paragraph5"></a>
 In this week I do testing is mostly about verifying the modules and checking their readiness and their collective, integral cooperation. I have  tested separately and also as a group. This aids the testers to identify any issues with two or more components working together or individually to execute functions.
+## Milestone 7  <a name="paragraph6"></a>
+In this week I find out the bugs during the testing and trying to solve these bugs. Some app functions very slow so I'm changing the approch and coding technique to overcome this issue.I'm changing some coding approches so my app works better.
