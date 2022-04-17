@@ -130,7 +130,7 @@ I'm writing code for login and selecting the vehicle  and billing process.
 This will help us to understand final vital component, which sits right at the crossroads between design and development: a detailed technical specification.  
 Now I implementing  the wireframe and annotates in more detail – so how it will actually work, as well as how it looks. 
 
-## Milestone 7  <a name="paragraph5"></a>
+## Milestone 6  <a name="paragraph5"></a>
 In this week I do testing is mostly about verifying the modules and checking their readiness and their collective, integral cooperation. I have  tested separately and also as a group. This aids the testers to identify any issues with two or more components working together or individually to execute functions.
 ## Milestone 7  <a name="paragraph6"></a>
 In this week I find out the bugs during the testing and trying to solve these bugs. Some app functions very slow so I'm changing the approch and coding technique to overcome this issue.I'm changing some coding approches so my app works better.
