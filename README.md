@@ -20,6 +20,7 @@ EZTravel App
 6. [Milestone 5](#paragraph4)
 7. [Milestone 6](#paragraph5)
 8. [Milestone 7](#paragraph6)
+9. [Milestone 8](#paragraph7)
 ## Overview
 ## Description<a name="Description"></a>
 This EZ-Travel is basically a smartphone app connect driver-partners and riders. It is designed for travelling from one place to another. The main purpose of this app is to reduce fuel consumption along with providing economical travelling cost hence contributing to green environment and economical for the both end users. As it’s been noticed most of the time people move long distances with having enough space for other individuals in their vehicles. Though there are many other benefits but the most common are these.  
@@ -134,3 +135,5 @@ Now I implementing  the wireframe and annotates in more detail – so how it wil
 In this week I do testing is mostly about verifying the modules and checking their readiness and their collective, integral cooperation. I have  tested separately and also as a group. This aids the testers to identify any issues with two or more components working together or individually to execute functions.
 ## Milestone 7  <a name="paragraph6"></a>
 In this week I find out the bugs during the testing and trying to solve these bugs. Some app functions very slow so I'm changing the approch and coding technique to overcome this issue.I'm changing some coding approches so my app works better.
+## Milestone 8  <a name="paragraph7"></a>
+In this week I'm performaing usability testing and functional testing so we have a error free app.In Functional testing we assesses whether or not the product works the way it should, whereas usability addresses whether or not the end user can access those functions and successfully use the product.
